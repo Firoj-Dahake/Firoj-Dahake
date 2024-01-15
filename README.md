@@ -1,6 +1,6 @@
 
 # Hey there! 👋 I'm Firoj Dahake
-Passionate Java Developer | Open Source Enthusiast |India , Maharashtra, Nagpur
+Passionate Java Developer|Learning JDBC , MySql , ReactJS ,Jsp ,Servlet , SprinBoot | Open Source Enthusiast |India , Maharashtra, Nagpur
 
 🌱 Currently exploring Java
 
