@@ -10,14 +10,14 @@ I'm a beginner java developer and myy aim is to be a successfull java developer,
 
 ## Tech Stack
 
-- **Languages:** C, Java.
-//- **Frameworks:** [Your Frameworks]
-//- **Tools:** [Your Tools]
+- **Languages:** C, Java , HTML, CSS ,JS , MYSQL.
+//- **Frameworks:** JSP , SERVLET , REACTJS , SPRINGGBOOT , JDBC
+//- **Tools:** ECLLIPSIDEA , INTELLIJIDEA , MYSQL .
 
 //## Projects
 
-//- [Project Name](Project Link) - Short project description.
-//- [Project Name](Project Link) - Short project description.
+//- COMPLETER CREDENTIAL(Project Link) - COMPLETER CREDENTIAL USING HTML,CSS,JS,JSP,SEVLET,JDBC,MYSQL.  IT IS THE REAL TIME CREDENTIAL CHECHING PROCESS.
+
 - ...
 
 ## Recent Blog Posts
@@ -29,7 +29,6 @@ I'm a beginner java developer and myy aim is to be a successfull java developer,
 ## Get in Touch
 
 - LinkedIn: [Your LinkedIn Profile](https://wwww.linkdin.com/in/firoj-dahake-9176b5273)
-- Twitter: [@YourTwitterHandle](Twitter Profile Link)
 - Website: [Your Website](Your Website Link)
 
 Feel free to connect with me for collaboration or just to have a chat!
